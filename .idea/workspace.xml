@@ -43,6 +43,7 @@
   "keyToString": {
     "Maven.eventsProject [clean].executor": "Run",
     "Maven.eventsProject [compile].executor": "Run",
+    "Maven.eventsProject [deploy].executor": "Run",
     "Maven.eventsProject [install].executor": "Run",
     "Maven.eventsProject [package].executor": "Run",
     "Maven.eventsProject [test].executor": "Run",
@@ -55,6 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "Spring Boot.EventsProjectApplication.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
     "kotlin-language-version-configured": "true",
@@ -145,7 +147,7 @@
       <workItem from="1701439123068" duration="199000" />
       <workItem from="1733479570932" duration="6400000" />
       <workItem from="1733858448791" duration="1174000" />
-      <workItem from="1733943978865" duration="594000" />
+      <workItem from="1733943978865" duration="1200000" />
     </task>
     <servers />
   </component>
